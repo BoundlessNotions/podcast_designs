@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3.45in"
-   height="2.3199999in"
-   viewBox="0 0 310.50001 208.8"
+   width="3.6600001in"
+   height="2.1600001in"
+   viewBox="0 0 329.40002 194.40002"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -530,7 +530,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="164.09868"
+     inkscape:cx="141.1715"
      inkscape:cy="87.573376"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -540,7 +540,8 @@
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     units="in" />
+     units="in"
+     width="3.66in" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -549,7 +550,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -557,24 +558,24 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(0,-843.56222)" />
+     transform="translate(0,-857.96222)" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-843.56222)">
+     transform="translate(0,-857.96222)">
     <rect
-       style="fill:#a6a8a9;fill-opacity:0.35897437;stroke:#666666;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.23391813;opacity:0.44713656"
+       style="opacity:0.44713655;fill:#a6a8a9;fill-opacity:0.35897438;stroke:#666666;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.23391813"
        id="rect4671"
-       width="313.67264"
-       height="210.36552"
-       x="-0.95953184"
-       y="843.30975"
-       inkscape:transform-center-x="-0.27675707"
-       inkscape:transform-center-y="8.8046773" />
+       width="378.01938"
+       height="264.81274"
+       x="-25.708271"
+       y="830.58185"
+       inkscape:transform-center-x="-0.33354028"
+       inkscape:transform-center-y="11.083536" />
     <g
        id="g4258"
-       transform="translate(2.1457672e-6,0)">
+       transform="translate(9.4500235,8.4005932)">
       <text
          transform="scale(1.0000194,0.99998061)"
          sodipodi:linespacing="100%"
@@ -613,7 +614,7 @@
            sodipodi:role="line">www.podcastinit.com</tspan></text>
     </g>
     <g
-       transform="matrix(0.71761767,0,0,0.71761767,-111.73767,542.67018)"
+       transform="matrix(0.71761767,0,0,0.71761767,-102.28765,551.07077)"
        id="layer1-2"
        inkscape:label="Layer 1">
       <g
