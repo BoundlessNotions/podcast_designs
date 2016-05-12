@@ -530,15 +530,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="222.36637"
-     inkscape:cy="100.13308"
+     inkscape:cx="164.09868"
+     inkscape:cy="87.573376"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1914"
-     inkscape:window-height="1017"
+     inkscape:window-width="1910"
+     inkscape:window-height="1015"
      inkscape:window-x="1920"
-     inkscape:window-y="1054"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="in" />
   <metadata
@@ -564,7 +564,7 @@
      id="layer1"
      transform="translate(0,-843.56222)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.23391813"
+       style="fill:#a6a8a9;fill-opacity:0.35897437;stroke:#666666;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.23391813;opacity:0.44713656"
        id="rect4671"
        width="313.67264"
        height="210.36552"
@@ -573,43 +573,42 @@
        inkscape:transform-center-x="-0.27675707"
        inkscape:transform-center-y="8.8046773" />
     <g
-       id="g7251"
-       transform="translate(4.9933963e-5,1.1667462e-6)">
+       id="g4258"
+       transform="translate(2.1457672e-6,0)">
       <text
          transform="scale(1.0000194,0.99998061)"
          sodipodi:linespacing="100%"
          id="text4610"
          y="982.78143"
-         x="90.239937"
+         x="89.78997"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.58573437px;line-height:100%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="982.78143"
-           x="90.239937"
+           x="89.78997"
            id="tspan4612"
            sodipodi:role="line">Podcast.__init__</tspan></text>
       <flowRoot
-         transform="matrix(1.0462,0,0,1.0462,-9.0765202,-58.54307)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.75564909px;line-height:125%;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#306998;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.11396027px;line-height:125%;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#306998;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot4634"
          xml:space="preserve"><flowRegion
            id="flowRegion4636"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.75564909px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;text-align:center;text-anchor:middle;fill:#306998;fill-opacity:1"
-             y="1001.1829"
-             x="28.65477"
-             height="15.923072"
-             width="259.36771"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.11396027px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;text-align:center;text-anchor:middle;fill:#306998;fill-opacity:1"
+             y="988.89453"
+             x="19.683874"
+             height="16.658718"
+             width="271.35049"
              id="rect4638" /></flowRegion><flowPara
            id="flowPara4642"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.75564909px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;text-align:center;text-anchor:middle;fill:#306998;fill-opacity:1">The Podcast About Python and The People Who Make It Great</flowPara></flowRoot>      <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#306998;fill-opacity:1">The Podcast About Python and The People Who Make It Great</flowPara></flowRoot>      <text
          sodipodi:linespacing="125%"
          id="text4349"
          y="1011.0007"
-         x="109.08644"
+         x="98.455162"
          style="font-style:normal;font-weight:normal;font-size:40.58158112px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.60904694px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="1011.0007"
-           x="109.08644"
+           x="98.455162"
            id="tspan4351"
            sodipodi:role="line">www.podcastinit.com</tspan></text>
     </g>
