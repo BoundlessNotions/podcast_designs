@@ -496,9 +496,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="352.55755"
-     inkscape:cy="36.40287"
+     inkscape:zoom="5.6"
+     inkscape:cx="117.47958"
+     inkscape:cy="117.66339"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -519,7 +519,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -534,7 +534,7 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#2e3092;stroke-width:0.17638889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="m 108.64726,66.98055 -21.997105,12.7 -21.9971,-12.7 v -25.4 l 21.9971,-12.699999 21.997105,12.699999 z" />
     <g
-       transform="matrix(0.16660401,0,0,0.16660401,77.621875,-47.985512)"
+       transform="matrix(0.16660401,0,0,0.16660401,77.621871,-47.985512)"
        id="g5790">
       <g
          id="g4229"
@@ -616,22 +616,22 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.99924827px;line-height:0%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16660401px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="66.582413"
-       y="62.877228"
+       y="62.348061"
        id="text4610"><tspan
          sodipodi:role="line"
          id="tspan4612"
          x="66.582413"
-         y="62.877228"
+         y="62.348061"
          style="font-size:4.1651001px;line-height:1;stroke-width:0.16660401px">Podcast.__init__</tspan></text>
     <text
        id="text4065"
-       y="66.862923"
-       x="68.929153"
+       y="66.333755"
+       x="68.929161"
        style="font-style:normal;font-weight:normal;font-size:6.24765015px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15619124px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15619124px"
-         y="66.862923"
-         x="68.929153"
+         y="66.333755"
+         x="68.929161"
          id="tspan4063"
          sodipodi:role="line">www.pythonpodcast.com</tspan></text>
   </g>
